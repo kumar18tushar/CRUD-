@@ -2,4 +2,4 @@
 Used MVC in spring boot and hibernate to 
 implement CRUD API's.
 </br>
-Write directly to the database using API links and redirection.
+Write and read directly from the database using API links and redirection.
